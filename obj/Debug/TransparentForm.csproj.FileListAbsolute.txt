@@ -1,0 +1,11 @@
+C:\Users\vdanh\Desktop\TransparentForm\bin\Debug\TransparentForm.exe.config
+C:\Users\vdanh\Desktop\TransparentForm\bin\Debug\TransparentForm.exe
+C:\Users\vdanh\Desktop\TransparentForm\bin\Debug\TransparentForm.pdb
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.csprojResolveAssemblyReference.cache
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.MyCapturePanel.resources
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.TransparentForm.resources
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.Properties.Resources.resources
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.csproj.GenerateResource.Cache
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.exe
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.pdb
+C:\Users\vdanh\Desktop\TransparentForm\obj\Debug\TransparentForm.csproj.CoreCompileInputs.cache
